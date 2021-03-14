@@ -12,7 +12,7 @@ This project explore the following:
 3. Product Development 
 4. Product Launch
 
-The process as presented herein provides an indepth analysis with emphasis on:
+The process as presented herein provide an indepth analysis with emphasis on:
 
 a) Identifying Opportunities
 b) Understanding the Market
@@ -20,3 +20,11 @@ c) The Target User
 d) Total Addressable Market
 e) Creating & Evaluating Hypotheses
 f) Creating a business case
+
+In addition, the pitch deck detail the essential aspects of what's required to make an informed decision on what to build, which include 
+1. Vision
+2. Strategy
+3. Business Models
+4. Competitive Analysis
+5. MVP
+6. KPIs
