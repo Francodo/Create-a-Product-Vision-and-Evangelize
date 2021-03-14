@@ -10,3 +10,11 @@ This project explore the following:
 2. Product Design
 3. Product Development 
 4. Product Launch
+
+The prodcess as presented herein provides an indepth analysis with emphasis on:
+a) Identifying Opportunities
+b) Understanding the Market
+c) The Target User
+d) Total Addressable Market
+e) Creating & Evaluating Hypotheses
+f) Creating a business case
